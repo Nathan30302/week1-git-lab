@@ -1,2 +1,3 @@
-# week1-git-lab
-Lab 1
+# GROUP MEMBERS
+1. NATHAN MBUMWAE (Nathan30302}
+2. DENNIS MULENGA (dennis-mulenga)
